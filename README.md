@@ -19,5 +19,5 @@ Visit https://t.me/airigirlfriendbot, press start and begin chatting.
 
 #### Why does the dev wallet hold supply?
 
-Dev wallet will be allocated with 6% of the supply at launch with 4% being burned upon migration, other 2% will half locked with vesting and the other half will be used for marketing purposes.
+Dev wallet will be allocated with 6% of the supply at launch with 4% being burned upon migration, other 2% will be half locked with vesting and the other half will be used for marketing purposes.
 
