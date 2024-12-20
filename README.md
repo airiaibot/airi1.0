@@ -1,23 +1,19 @@
 ![AIRI](AIRI.png)
 
-# Airi - AI powered telegram girlfriend bot. 
+# Introducing Airi – the ultimate AI-powered Telegram girlfriend bot. 
 
-Airi is your ultimate naughty girlfriend AI. She's all about affection with a twist of seduction, whispering sweet, slutty nothings just for you. Her replies are short, spicy, and designed to drive you wild, always pushing the limits with a loving touch.
+Airi is here to bring you a unique experience, blending affection with a seductive twist. She’s designed to keep you captivated with her playful, short, and spicy messages, always pushing the boundaries while maintaining a loving tone.
 
-Built using ai16z. 
+Powered by ai16z, Airi is built to keep users entertained through special prompts that ensure a tantalizing and engaging interaction. To prevent spamming, the system includes rate-limiting features for each user.
 
-Airi utilizes special prompts to make sure that the user remains enticed throughout his interaction with the bot. Also includes a mechanism which will rate-limit every user for spam.
-
-Written fully in python and will be continued to be built.
-
-Version 1.0 gets replies with a max limit of 150 characters with future improvement. Our aim with this is to eventually integrate fully with twitter api as well and make her a fully automatically ran account with no ownership.
+Airi is currently in Version 1.0, offering responses up to 150 characters, with plans for future upgrades. The vision is to fully integrate her with the Twitter API, making her a fully automated account with no ownership required.
 ## FAQ
 
 #### How to use?
 
-Visit https://t.me/airigirlfriendbot, press start and begin chatting.
+Simply visit https://t.me/airigirlfriendbot, click 'Start', and begin chatting.
 
 #### Why does the dev wallet hold supply?
 
-Dev wallet will be allocated with 6% of the supply at launch with 4% being burned upon migration, other 2% will be half locked with vesting and the other half will be used for marketing purposes.
+At launch, the dev wallet will hold 6% of the total supply. Of this, 4% will be burned during migration, while the remaining 2% will be split: half locked with vesting and the other half used for marketing.
 
