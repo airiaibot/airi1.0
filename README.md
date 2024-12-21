@@ -9,6 +9,8 @@ Powered by ai16z, Airi is built to keep users entertained through special prompt
 Airi is currently in Version 1.0, offering responses up to 150 characters, with plans for future upgrades. The vision is to fully integrate her with the Twitter API, making her a fully automated account with no ownership required.
 
 Once we move away from version 1.0, the source code for this version will be fully released to the public.
+
+https://x.com/airiaisol
 ## FAQ
 
 #### How to use?
