@@ -6,7 +6,7 @@ Airi is here to bring you a unique experience, blending affection with a seducti
 
 Powered by ai16z, Airi is built to keep users entertained through special prompts that ensure a tantalizing and engaging interaction. To prevent spamming, the system includes rate-limiting features for each user.
 
-Airi is currently in Version 1.0, offering responses up to 150 characters, with plans for future upgrades. The vision is to fully integrate her with the Twitter API, making her a fully automated account with no ownership required.
+Airi is currently in Version 1.0, offering responses up to 150 characters, with plans for future upgrades. The vision is to fully integrate her with the Twitter API, making her a fully automated account with no ownership required and also make the telegram fully integrated with custom images with every message providing for a better experience.
 
 Once we move away from version 1.0, the source code for this version will be fully released to the public.
 
